@@ -1,1 +1,124 @@
-<mxfile host="www.draw.io" modified="2020-08-29T06:18:17.912Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" version="13.6.3" etag="NNu2Ql2BgMLdrHeKyomx" type="github"><diagram id="VpfvDKj0XpOqUKf8mg7U">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-08-29T07:33:32.270Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="qdTqq4t5QdGJr3SaODBo" version="13.6.3" type="github">
+  <diagram id="VpfvDKj0XpOqUKf8mg7U" name="ページ1">
+    <mxGraphModel dx="2056" dy="1058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Czipjxb_Ep661mnPYPTo-23" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontSize=28;fontColor=#0000FF;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="500" y="550" width="350" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Czipjxb_Ep661mnPYPTo-21" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;fontSize=28;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="709.5" y="540" width="140" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Czipjxb_Ep661mnPYPTo-3" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;X大学&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="749.5" y="645" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Czipjxb_Ep661mnPYPTo-6" value="&lt;b style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;特許&lt;br&gt;&lt;br&gt;『鉛筆』&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;strokeWidth=4;fillColor=none;fontSize=15;strokeColor=#0066CC;" vertex="1" parent="1">
+          <mxGeometry x="760" y="730" width="49.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Czipjxb_Ep661mnPYPTo-12" value="&lt;b style=&quot;color: rgb(0 , 0 , 0) ; font-size: 16px&quot;&gt;A社&lt;/b&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.office_building;" vertex="1" parent="1">
+          <mxGeometry x="500" y="575" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Czipjxb_Ep661mnPYPTo-13" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;B社&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.office_building;" vertex="1" parent="1">
+          <mxGeometry x="980" y="575" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Czipjxb_Ep661mnPYPTo-14" value="" style="shape=mxgraph.cisco.buildings.university;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;fontSize=15;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="713" y="590" width="133" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="Czipjxb_Ep661mnPYPTo-16" value="&lt;b style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;特許&lt;br&gt;『六角柱の鉛筆』&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;strokeWidth=4;fillColor=none;fontSize=15;strokeColor=#0066CC;" vertex="1" parent="1">
+          <mxGeometry x="620" y="585" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Czipjxb_Ep661mnPYPTo-17" value="&lt;b style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;特許&lt;br&gt;『消しゴム付き鉛筆』&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;strokeWidth=4;fillColor=none;fontSize=15;strokeColor=#0066CC;" vertex="1" parent="1">
+          <mxGeometry x="880" y="586.5" width="59.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Czipjxb_Ep661mnPYPTo-24" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontSize=28;fontColor=#0000FF;strokeColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="710" y="550" width="370" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Czipjxb_Ep661mnPYPTo-26" value="" style="endArrow=classic;html=1;fontSize=28;fontColor=#0000FF;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="821.5" y="760" as="sourcePoint" />
+            <mxPoint x="1029.5" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1029.5" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Czipjxb_Ep661mnPYPTo-27" value="" style="endArrow=classic;html=1;fontSize=28;fontColor=#0000FF;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="751" y="760" as="sourcePoint" />
+            <mxPoint x="531" y="679" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="631" y="760" />
+              <mxPoint x="531" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Czipjxb_Ep661mnPYPTo-29" value="&lt;font style=&quot;font-size: 13px&quot; color=&quot;#000000&quot;&gt;実施許諾&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=28;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="585" y="745" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Czipjxb_Ep661mnPYPTo-30" value="C社" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.office_building;" vertex="1" parent="1">
+          <mxGeometry x="749.75" y="920" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Czipjxb_Ep661mnPYPTo-33" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;実施許諾&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=28;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="915" y="745" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Czipjxb_Ep661mnPYPTo-36" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=28;fontColor=#0000FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="645" y="581" as="sourcePoint" />
+            <mxPoint x="1025" y="551" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="645" y="501" />
+              <mxPoint x="1025" y="501" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Czipjxb_Ep661mnPYPTo-37" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 30px&quot;&gt;×&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=28;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="535" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Czipjxb_Ep661mnPYPTo-38" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=28;fontColor=#0000FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="586.5" as="sourcePoint" />
+            <mxPoint x="540" y="556.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="900" y="506.5" />
+              <mxPoint x="540" y="506.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Czipjxb_Ep661mnPYPTo-39" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 30px&quot;&gt;×&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=28;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="525" y="540" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Czipjxb_Ep661mnPYPTo-40" value="&lt;font style=&quot;font-size: 12px&quot;&gt;A-X 共有&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=28;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="620" y="630" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Czipjxb_Ep661mnPYPTo-43" value="&lt;font style=&quot;font-size: 12px&quot;&gt;B-X 共有&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=28;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="878.5" y="630" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Czipjxb_Ep661mnPYPTo-44" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=28;fontColor=#0000FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="786" y="793" as="sourcePoint" />
+            <mxPoint x="786" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Czipjxb_Ep661mnPYPTo-45" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=28;fontColor=#0000FF;exitX=0.55;exitY=1.04;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Czipjxb_Ep661mnPYPTo-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="680" as="sourcePoint" />
+            <mxPoint x="740" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Czipjxb_Ep661mnPYPTo-46" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=28;fontColor=#0000FF;exitX=0.475;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Czipjxb_Ep661mnPYPTo-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="680" as="sourcePoint" />
+            <mxPoint x="830" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Czipjxb_Ep661mnPYPTo-47" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 30px&quot;&gt;×&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=28;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="809.5" y="900" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Czipjxb_Ep661mnPYPTo-48" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 30px&quot;&gt;×&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=28;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="730" y="900" width="30" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
